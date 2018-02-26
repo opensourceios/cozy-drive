@@ -2143,19 +2143,17 @@ copy-to-clipboard@^3:
   dependencies:
     toggle-selection "^1.0.3"
 
-copy-webpack-plugin@4.3.0:
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/copy-webpack-plugin/-/copy-webpack-plugin-4.3.0.tgz#cfdf4d131c78d66917a1bb863f86630497aacf42"
+copy-webpack-plugin@4.4.2:
+  version "4.4.2"
+  resolved "https://registry.yarnpkg.com/copy-webpack-plugin/-/copy-webpack-plugin-4.4.2.tgz#c92bcd7df4d5e42c51398cc36b23820d0d10446a"
   dependencies:
     cacache "^10.0.1"
     find-cache-dir "^1.0.0"
     globby "^7.1.1"
     is-glob "^4.0.0"
     loader-utils "^0.2.15"
-    lodash "^4.3.0"
     minimatch "^3.0.4"
     p-limit "^1.0.0"
-    pify "^3.0.0"
     serialize-javascript "^1.4.0"
 
 cordova-app-hello-world@^3.11.0:
